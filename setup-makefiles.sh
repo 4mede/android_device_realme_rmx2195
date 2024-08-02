@@ -8,8 +8,8 @@
 
 set -e
 
-export DEVICE=guam
+export DEVICE=rmx2195
 export DEVICE_COMMON=sm6225-common
-export VENDOR=motorola
+export VENDOR=realme
 
 "./../../${VENDOR}/${DEVICE_COMMON}/setup-makefiles.sh" "$@"

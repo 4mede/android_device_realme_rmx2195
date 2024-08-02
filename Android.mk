@@ -5,6 +5,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE), guam)
+ifeq ($(TARGET_DEVICE), rmx2195)
 include $(call all-makefiles-under, $(LOCAL_PATH))
 endif
