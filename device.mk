@@ -47,4 +47,4 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/rootdir/etc/fstab.qcom_ramdisk:$(TARGET_COPY_OUT_RAMDISK)/fstab.qcom
 
 # Get non-open-source specific aspects
-$(call inherit-product, vendor/motorola/guam/guam-vendor.mk)
+$(call inherit-product, vendor/realme/rmx2195/rmx2195-vendor.mk)
