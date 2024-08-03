@@ -1,4 +1,4 @@
-Device tree configuration for Motorola Moto E7 Plus
+Device tree configuration for Realme C15 Qualcomm Edition
 
 
 ```
