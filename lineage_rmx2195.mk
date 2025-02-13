@@ -22,7 +22,7 @@ PRODUCT_MANUFACTURER := realme
 PRODUCT_GMS_CLIENTID_BASE := android-realme
 
 # TODO: Update build fingerprint and build desc
-BUILD_FINGERPRINT := "motorola/rmx2915 _retail/rmx2195:10/QPZS30.30-Q3-38-69-12/916393:user/release-keys"
+BUILD_FINGERPRINT := "realme/rmx2915 _retail/rmx2195:10/QPZS30.30-Q3-38-69-12/916393:user/release-keys"
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_PRODUCT=rmx2915_retail \

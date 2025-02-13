@@ -3,9 +3,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-# Inherit from sm6225-common
-$(call inherit-product, device/motorola/sm6225-common/bengal.mk)
-
 # A/B
 AB_OTA_PARTITIONS += \
     recovery
